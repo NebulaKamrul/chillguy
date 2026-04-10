@@ -37,7 +37,7 @@ export default function SplashView({ onDone }) {
           chillguy.
         </h1>
         <p className="text-chill-accent/60 font-bold text-sm">
-          your fridge. without the stress.
+          he doesn't worry about expired food. you shouldn't either.
         </p>
       </div>
 
