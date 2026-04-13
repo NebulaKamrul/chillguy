@@ -66,6 +66,6 @@ public/
 
 ## built for
 
-BUSI 2200: Marketing Management
-Ontario Tech University
-ChillGuy Smart Mini-Fridge: Final Marketing Strategy Project
+BUSI 2200: Marketing Management  
+Ontario Tech University  
+ChillGuy Smart Mini-Fridge: Final Marketing Strategy Project  
