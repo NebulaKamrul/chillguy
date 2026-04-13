@@ -64,18 +64,6 @@ public/
 └── chillguylanding.png       # splash screen mascot
 ```
 
----
-
-## design decisions
-
-- **no backend** — all data lives in localStorage, keeping the prototype fully static and free to host
-- **context api over redux** — two simple contexts (fridge state + toasts) cover all global state needs without the overhead
-- **mobile-first** — `h-[100dvh]` + `overscroll-behavior: none` + `viewport-fit=cover` for a native app feel on iOS/Android
-- **custom tailwind tokens** — `chill-bg`, `chill-surface`, `chill-accent`, `chill-warning`, `chill-error`, `chill-fresh` keep the colour system consistent across every component
-- **date-fns over native Date** — `differenceInDays()` handles timezone-safe expiry calculations cleanly
-
----
-
 ## built for
 
 BUSI 2200: Marketing Management
