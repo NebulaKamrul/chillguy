@@ -1,4 +1,4 @@
-# chillguy — student smart fridge companion
+# chillguy: student smart fridge companion
 
 > *he doesn't worry about expired food. you shouldn't either.*
 
@@ -10,15 +10,15 @@ Live demo → **[chillguy-v1.vercel.app](https://chillguy-v1.vercel.app)**
 
 ## features
 
-- **fridge tracker** — add items with expiry dates, colour-coded by freshness (fresh / expiring / expired)
-- **expiry alerts** — prioritized list of what's about to go bad, with simulated push notifications
-- **meal ideas** — 6 student-friendly recipes that cross-reference your actual fridge contents in real time
-- **nutrition breakdown** — macro donut chart (protein / carbs / fat) + waste score gamification
-- **savings tracker** — estimates money saved by tracking food each month
-- **connected apps** — toggle integrations with MyFitnessPal, Apple Health, Google Fit, and Cronometer
-- **settings panel** — hamburger menu with notification controls and fridge status
-- **first-launch onboarding** — auto-loads realistic sample data so the app is never empty on first open
-- **fully mobile responsive** — true fullscreen on phone, phone mockup on desktop
+- **fridge tracker**: add items with expiry dates, colour-coded by freshness (fresh / expiring / expired)
+- **expiry alerts**: prioritized list of what's about to go bad, with simulated push notifications
+- **meal ideas**: 6 student-friendly recipes that cross-reference your actual fridge contents in real time
+- **nutrition breakdown**: macro donut chart (protein / carbs / fat) + waste score gamification
+- **savings tracker**: estimates money saved by tracking food each month
+- **connected apps**: toggle integrations with MyFitnessPal, Apple Health, Google Fit, and Cronometer
+- **settings panel**: hamburger menu with notification controls and fridge status
+- **first-launch onboarding**: auto-loads realistic sample data so the app is never empty on first open
+- **fully mobile responsive**: true fullscreen on phone, phone mockup on desktop
 
 ---
 
@@ -76,21 +76,8 @@ public/
 
 ---
 
-## running locally
-
-```bash
-git clone https://github.com/NebulaKamrul/chillguy.git
-cd chillguy
-npm install
-npm run dev
-```
-
-Open `http://localhost:5173`
-
----
-
 ## built for
 
-BUSI 2200 — Marketing Management
+BUSI 2200: Marketing Management
 Ontario Tech University
-ChillGuy Smart Mini-Fridge — marketing strategy project
+ChillGuy Smart Mini-Fridge: Final Marketing Strategy Project
